@@ -3,8 +3,6 @@
 document.addEventListener("DOMContentLoaded", init);
 
 const HTML = {};
-let hex = displayColor(HTML.hex);
-let h, s, l;
 let r, g, b;
 
 function init() {
